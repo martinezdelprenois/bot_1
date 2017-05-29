@@ -1,0 +1,24 @@
+{
+  "name": "bot",
+  "version": "1.0.0",
+  "description": "just another bot",
+  "main": "hello.js",
+  "engines": {
+    "node": "6.10.3"
+  }
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.3",
+    "request": "^2.81.0"
+  }
+  "repository": {
+  "type": "git",
+  "url": "https://github.com/martinezdelprenois/bot"
+}
+}
